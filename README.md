@@ -1,3 +1,10 @@
+# Ruby on Rails tutorial: Sample Application
+
+This is a sample application for the Website
+[*Ruby on Rails Tutorial*](http://railstutorial.jp/)
+by[Michael Hartl](http://michaelhartl.com/)
+
+
 == README
 
 This README would normally document whatever steps are necessary to get the
